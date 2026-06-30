@@ -7,7 +7,7 @@ variable "vpc_tags" {
     default = {}
 }
 
-variable "project_name" {
+variable "project" {
   
 }
 
